@@ -1,0 +1,18 @@
+JSON Response: {
+  "name": "Mateusz",
+  "job": "Talent Acquisition",
+  "id": "785",
+  "createdAt": "2025-05-24T18:26:11.716Z"
+}
+JSON Response: {
+  "name": "Indre",
+  "job": "Product Manager",
+  "id": "30",
+  "createdAt": "2025-05-24T18:26:11.857Z"
+}
+JSON Response: {
+  "name": "Sarah",
+  "job": "IT Manager",
+  "id": "72",
+  "createdAt": "2025-05-24T18:26:11.991Z"
+}
